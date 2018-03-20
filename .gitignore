@@ -1,0 +1,10 @@
+.stack-work
+*.sublime-project
+*.sublime-workspace
+dist
+*.o
+*.hi
+*.swp
+.cabal-sandbox
+cabal.sandbox.config
+
